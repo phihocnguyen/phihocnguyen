@@ -13,6 +13,20 @@
 - 💻 Backend developer with a focus on **NestJS**, **Spring Boot**, **PostgreSQL**, and **DevOps** tools  
 - 📫 Contact me: `ng.phihoc123@gmail.com`  
 - 🌐 Portfolio: [github.com/phihocnguyen](https://github.com/phihocnguyen)
+- 🌱 Constantly improving skills in **system design**, **clean architecture**, and **cloud-native development**
+- 🧩 I'm particularly interested in:  
+  - Designing scalable and secure backend systems  
+  - Building robust microservices with modern tech stacks  
+  - Automation through CI/CD and infrastructure-as-code
+
+---
+
+### 💡 Fun Facts
+
+- 🤖 I'm an advocate of **learning by doing** — I build real-world projects to practice what I learn.
+- 💬 I enjoy discussing about **design patterns**, **software architecture**, and **career growth in tech**.
+- 🧠 Outside of coding, I like reading books on self-improvement and productivity.
+- 👨‍🏫 I also contribute to the community by **training juniors in Webdev Studios Club** at UIT.
 
 ---
 
