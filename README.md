@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coding.gif" width="150"/>
+  <img src="./assets/coding.gif" width="350"/>
 </p>
 
 <h1 align="center">Hi, I'm Nguyen Phi Hoc <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
