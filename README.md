@@ -12,7 +12,6 @@
 - 🔭 I'm currently studying Software Engineering at **University of Information Technology (UIT)**  
 - 💻 Backend developer with a focus on **NestJS**, **Spring Boot**, **PostgreSQL**, and **DevOps** tools  
 - 📫 Contact me: `ng.phihoc123@gmail.com`  
-- 🌐 Portfolio: [github.com/phihocnguyen](https://github.com/phihocnguyen)
 - 🌱 Constantly improving skills in **system design**, **clean architecture**, and **cloud-native development**
 - 🧩 I'm particularly interested in:  
   - Designing scalable and secure backend systems  
