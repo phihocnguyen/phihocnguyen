@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phihocnguyen&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phihocnguyen" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phihocnguyen&theme=tokyonight" />
 </p>
 
