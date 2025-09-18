@@ -61,11 +61,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phihocnguyen" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phihocnguyen&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phihocnguyen&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phihocnguyen&theme=default" />
 </p>
 
 ---
