@@ -61,11 +61,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phihocnguyen&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phihocnguyen&show_icons=true&locale=en&layout=compact" alt = "phihocnguyen />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phihocnguyen&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phihocnguyen&theme=default" alt="phihocnguyen" />
 </p>
 
 ---
